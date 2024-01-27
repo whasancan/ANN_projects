@@ -4,7 +4,7 @@ ANN modeli kullanarak yaptığım projenin amacı, çalışanın kredi skoruna, 
 
 ## Verilerimiz şu şekidir.
 
-![VERİLER]([https://github.com/whasancan/ANN_projects/blob/b01bcc2706cfdccf1fbe5adeeb24d3829d4c7bd2/veri.png](https://github.com/whasancan/ANN_projects/blob/ad862f2113e534cb1c24a837ed3aa1dccf0966d3/Images/veri.png)https://github.com/whasancan/ANN_projects/blob/ad862f2113e534cb1c24a837ed3aa1dccf0966d3/Images/veri.png)
+![VERİLER](https://github.com/whasancan/ANN_projects/blob/e51486a93fc9a73c4332708334e06b0bfcf6ca78/Images/veri.png)
 
 
 ## Modelimiz eğitiyoruz.
